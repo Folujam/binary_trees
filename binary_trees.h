@@ -31,5 +31,4 @@ typedef struct binary_tree_s heap_t;
 
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value);
 
-s
 #endif
